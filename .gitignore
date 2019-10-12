@@ -1,0 +1,9 @@
+.DS_Store
+bin/
+build/
+*.class
+.idea/
+target/
+.classpath
+.project
+raytracer.iml
