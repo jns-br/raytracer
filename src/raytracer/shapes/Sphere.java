@@ -1,8 +1,9 @@
-package raytracer.abstractions;
+package raytracer.shapes;
 
-import raytracer.shapes.Shape;
-import raytracer.materials.Material;
 import cgtools.Vec3;
+import raytracer.abstractions.Hit;
+import raytracer.abstractions.Ray;
+import raytracer.materials.Material;
 
 import static cgtools.Vec3.*;
 

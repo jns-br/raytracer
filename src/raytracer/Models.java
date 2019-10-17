@@ -1,6 +1,6 @@
 package raytracer;
 
-import raytracer.abstractions.Sphere;
+import raytracer.shapes.Sphere;
 import raytracer.shapes.Background;
 import raytracer.abstractions.Group;
 import raytracer.shapes.Plane;
